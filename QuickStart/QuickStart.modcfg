@@ -1,0 +1,13 @@
+ModCFG
+{
+    title = QuickStart
+    author = YourName
+    modVersion = 0.1.0
+    Plugin
+    {
+        name = QuickStart
+        description = Load into workshop
+        asmpath = Addons\QuickStart\QuickStart.dll
+        order = 10
+    }
+}
